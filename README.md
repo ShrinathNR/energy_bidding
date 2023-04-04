@@ -1,2 +1,2 @@
-# energy_bidding
-## a j comp project for tarp. it deals with energy trading using blockchain.
+## energy_bidding
+### A J Comp project for TARP. it deals with energy trading using blockchain.
